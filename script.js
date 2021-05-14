@@ -9,12 +9,12 @@
 // let answer = +prompt('Есть ли вам 18?', 'Да');
 // console.log(typeof (answer));aa
 
-// Number
-// String
-// Boolean
-// Object
-// null
-// undefined
+Number
+String
+Boolean
+Object
+null
+undefined
 
 
 let result = 'arr'
